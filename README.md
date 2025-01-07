@@ -8,4 +8,6 @@ Como podemos ver no print abaixo, assim que criamos a view, ela já aparece disp
 <br>
 Uma vez que nossa view já está criada, podemos acessá-las e usá-las em outras queries, como podemos ver no print abaixo:
 <br>
-![Utilizando a view](https://github.com/user-attachments/assets/1a4098d7-f61d-4788-a849-d5b57a6664b2)
+<br>
+
+![Utilizando a view](https://github.com/user-attachments/assets/5688dba5-d60e-4719-bc03-72a8206395b6)
