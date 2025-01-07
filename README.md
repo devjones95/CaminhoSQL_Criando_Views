@@ -10,4 +10,4 @@ Uma vez que nossa view já está criada, podemos acessá-las e usá-las em outra
 <br>
 <br>
 
-![Utilizando a view](https://github.com/user-attachments/assets/5688dba5-d60e-4719-bc03-72a8206395b6)
+![Utilizando a View](https://github.com/user-attachments/assets/e38b9266-2913-472f-a32d-024f6bd7077b)
