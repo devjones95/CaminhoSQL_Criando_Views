@@ -1,5 +1,6 @@
 Nesse breve exercício, criamos uma View bem simples, a fim de termos certos dados mais fáceis de acessar, pois a view já aplica a maioria dos filtros e inclui os dados que iremos usar.
 <br>
+<br>
 Como podemos ver no print abaixo, nossa view ficou da seguinte forma:
 ![Criando a view](https://github.com/user-attachments/assets/3a6d968b-884c-458e-9980-be85fe3e1c66)
 <br>
